@@ -1,0 +1,13 @@
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\ØresundbroenBilletLibrary.deps.json
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\ØresundbroenBilletLibrary.dll
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\ØresundbroenBilletLibrary.pdb
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\ØresundbroenBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.xml
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.csprojAssemblyReference.cache
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.AssemblyInfoInputs.cache
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.AssemblyInfo.cs
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.csproj.CopyComplete
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.dll
+C:\source\ØresundbroenBilletLibrary\obj\Debug\netstandard2.0\ØresundbroenBilletLibrary.pdb
