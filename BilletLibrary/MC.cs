@@ -9,7 +9,9 @@ namespace BilletLibrary
         /// <summary>
         /// Pris for MC
         /// </summary>
-        /// <returns></returns>
+        /// <returns>
+        /// Returns Pris deci at 125
+        /// </returns>
         public override decimal Pris()
         {
             return 125;
