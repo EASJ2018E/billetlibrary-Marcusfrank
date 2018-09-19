@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Frank\\.nuget\\packages\\": {},
+    "C:\\Users\\Nadia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\BilletLibrary\\BilletLibrary.csproj",
+      "projectUniqueName": "C:\\source\\billetlibrary-Marcusfrank\\BilletLibrary\\BilletLibrary.csproj",
       "projectName": "BilletLibrary",
-      "projectPath": "C:\\source\\BilletLibrary\\BilletLibrary.csproj",
-      "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\BilletLibrary\\obj\\",
+      "projectPath": "C:\\source\\billetlibrary-Marcusfrank\\BilletLibrary\\BilletLibrary.csproj",
+      "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\billetlibrary-Marcusfrank\\BilletLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
