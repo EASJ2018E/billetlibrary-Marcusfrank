@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreBaeltBilletLibrary", "StoreBaeltBilletLibrary.csproj", "{AE1A44B1-A583-46D1-AE50-C96343C68A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1A44B1-A583-46D1-AE50-C96343C68A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1A44B1-A583-46D1-AE50-C96343C68A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1A44B1-A583-46D1-AE50-C96343C68A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1A44B1-A583-46D1-AE50-C96343C68A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774F1616-BBFC-4B95-B13D-D7B6DE27C5D5}
+	EndGlobalSection
+EndGlobal

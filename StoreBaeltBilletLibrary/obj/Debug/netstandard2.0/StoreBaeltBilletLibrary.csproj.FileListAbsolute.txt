@@ -1,0 +1,13 @@
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\StoreBaeltBilletLibrary.deps.json
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\StoreBaeltBilletLibrary.dll
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\StoreBaeltBilletLibrary.pdb
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\StoreBaeltBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.xml
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.dll
+C:\source\StoreBaeltBilletLibrary\obj\Debug\netstandard2.0\StoreBaeltBilletLibrary.pdb
