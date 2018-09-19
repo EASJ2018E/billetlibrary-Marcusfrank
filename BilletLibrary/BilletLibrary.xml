@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Pris for Bil
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.køretøj">
+            <summary>
+            Køretøj Bil
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Pris for MC
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.køretøj">
+            <summary>
+            Køretøj MC
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:BilletLibrary.Transportmiddel.Nummerplade">
+            <summary>
+            Nummerplade på et transportmiddel
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Transportmiddel.Pris">
+            <summary>
+            Pris for transportmiddel i deci
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Transportmiddel.køretøj">
+            <summary>
+            køretøj, default Bil
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

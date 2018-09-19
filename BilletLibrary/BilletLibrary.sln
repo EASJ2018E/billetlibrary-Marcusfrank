@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilletLibrary", "BilletLibrary.csproj", "{967EF0F4-0B46-4223-ADE4-45390D0AF2B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{BF67C03A-A6E6-4FB1-8792-C00A6F3C1E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967EF0F4-0B46-4223-ADE4-45390D0AF2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967EF0F4-0B46-4223-ADE4-45390D0AF2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967EF0F4-0B46-4223-ADE4-45390D0AF2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967EF0F4-0B46-4223-ADE4-45390D0AF2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF67C03A-A6E6-4FB1-8792-C00A6F3C1E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF67C03A-A6E6-4FB1-8792-C00A6F3C1E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF67C03A-A6E6-4FB1-8792-C00A6F3C1E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF67C03A-A6E6-4FB1-8792-C00A6F3C1E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6F2234-88DF-46F7-92C8-77B5FEDCFBC4}
+	EndGlobalSection
+EndGlobal
